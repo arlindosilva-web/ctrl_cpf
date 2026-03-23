@@ -1,0 +1,22 @@
+{
+  "manifest_version": 3,
+  "name": "Ctrl-CPF",
+  "icons": {
+    "16": "icons/icon16.png",
+    "48": "icons/icon48.png",
+    "128": "icons/icon128.png"
+  },
+  "version": "2.0",
+  "description": "Detecta e copia CPF automaticamente sem formatação.",
+  "author": "Arlindo Silva | Web Denveloper",
+  "homepage_url": "https://github.com/arlindosilva-web",
+  "permissions": ["activeTab", "scripting", "clipboardWrite"],
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "icons/icon16.png",
+      "48": "icons/icon48.png"
+    }
+  }
+
+}
