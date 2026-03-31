@@ -1,6 +1,8 @@
 # 🚀 Ctrl-CPF
 
 > Copie CPFs automaticamente, sem pontos e sem traços — com apenas um clique.
+> 
+![Gravar_2026_03_31_09_15_02_653](https://github.com/user-attachments/assets/0eb98eb5-e557-46ef-9083-47b448bb5640)
 
 ---
 
